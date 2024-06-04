@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Fruits:Jaspreet</title>
+ <style>
+   body {background-color: lightgreen}
+ 
+   h1 {color: blue;}
+ 
+   h6 {color: red;}
+ 
+   p {color: pink;}
+ </style>
+</head>
+<body>
+ <h1>Student Number: 814412</h1>
+ <h6> Jaspreet kaur</h6>
+ <p>The natural beauty of Banff's surrounding lakes and mountains made it Canada's first National Park and the world's third national park refuge, and part of the Canadian Rocky Mountain Parks UNESCO World Heritage Site.</p>
+ 
+ <select>
+   <option selected disabled>Fruits: Jaspreet</option>
+   <option>Pea</option>
+   <option>Grape</option>
+   <option>Tomato</option>
+   <option>Orange</option>
+   <option>Banana</option>
+ </select>
+</body>
+</html>
