@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+    <html lang='en'>
+    <head>
+        <meta charset='UTF-8'>
+        <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+        <title>Frame 2</title>
+        <style>
+            body {
+                background: url('background.jpg') no-repeat center center fixed;
+                background-size: cover;
+                color: #fff;
+                font-family: Arial, sans-serif;
+                text-align: center;
+                margin: 0;
+                padding: 20px;
+            }
+            .intro {
+                font-family: 'Courier New', Courier, monospace;
+                font-size: 16px;
+                color: yellow;
+            }
+            .intro .highlight {
+                font-size: 24px;
+                color: red;
+            }
+            .intro .note {
+                font-size: 12px;
+                color: blue;
+            }
+        </style>
+    </head>
+    <body>
+        
+        <div class='intro'>
+            Hello, my name is Jaspreet Kaur. I am a student of columbia college.i am currently studying Csci 101.<br>
+            <span class='highlight'>I love coding and learning new technologies.</span><br>
+            <span class='note'>In my free time, I enjoy reading and exploring nature.</span>
+        </div>
+    </body>
+    </html>
